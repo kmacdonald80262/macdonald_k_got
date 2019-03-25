@@ -1,1 +1,2 @@
-# macdonald_k_got
+# GOT_video
+Update this with a proper readme doc
